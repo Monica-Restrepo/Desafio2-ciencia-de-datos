@@ -1,5 +1,4 @@
-# Índice
-## Desafío 2 Ciencia de Datos
+# Desafío 2 Ciencia de Datos
 
 ## Descripción de su proyecto:
 El objetivo de este protecto es recopilar, procesar y analizar los datos de la empresa Telecom X, utilizando Python y sus principales bibliotecas para extraer información valiosa, como parte del proyecto "Churn de Clientes"; dado que la empresa enfrenta una alta tasa de cancelaciones y necesita comprender los factores que llevan a la pérdida de clientes.
